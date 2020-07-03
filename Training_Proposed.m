@@ -72,12 +72,12 @@ D3 = normalize_dic(D3);
 
 %% solve the D1 and D2   
 
-lambdaA2= 5.0000e-04;   
-lambdaA3= 5.0000e-04;
-lambdaB1= 8.0000e-04
-lambdaB3=8.0000e-04
-lambdaC1= 5.0000e-04
-lambdaC2=  5.0000e-04
+lambdaA2= 3.0000e-04;   
+lambdaA3= 3.0000e-04;
+lambdaB1= 3.0000e-04
+lambdaB3= 3.0000e-04
+lambdaC1= 3.0000e-04
+lambdaC2= 3.0000e-04
 
 lam=1000; %incoherence term hyper parameters
 
